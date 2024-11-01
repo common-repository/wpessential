@@ -1,0 +1,9 @@
+@media (max-width: 1024px) {
+    .wpe-style2 .wpe-blog-meta {
+        display: block;
+    }
+
+    .wpe-style2 .wpe-blog-stat {
+        margin-top: 10px;
+    }
+}
